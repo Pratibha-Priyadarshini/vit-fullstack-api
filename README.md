@@ -7,7 +7,7 @@ It accepts an array as input and returns processed results including numbers, al
 
 
 ## Hosted URL:
-POST → [API Endpoint](https://vit-fullstack-gjkh0bgpu-pratibha-priyadarshinis-projects.vercel.app/bfhl)
+POST → [API Endpoint](https://vit-fullstack-gjkh0bgpu-pratibha-priyadarshinis-projects.vercel.app/bfhl) (verify through POSTMAN)
 
 
 
